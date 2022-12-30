@@ -1,0 +1,239 @@
+lrc12droa1
+--------------------------------------------------
+depth=0 O = Hewlett Packard Enterprise, OU = Onboard Administrator, CN = OA-30E171643071
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett Packard Enterprise, OU = Onboard Administrator, CN = OA-30E171643071
+verify return:1
+DONE
+notAfter=Dec 20 15:42:10 2027 GMT
+
+lrc12droa2
+--------------------------------------------------
+depth=0 O = Hewlett Packard Enterprise, OU = Onboard Administrator, CN = OA-30E17164647B
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett Packard Enterprise, OU = Onboard Administrator, CN = OA-30E17164647B
+verify return:1
+notAfter=Dec 20 15:41:06 2027 GMT
+DONE
+
+lrc12esxi1biLO
+--------------------------------------------------
+depth=0 CN = ILOSGH751T06M, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH751T06M, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Dec 21 16:44:12 2032 GMT
+
+lrc12esxi3biLO
+--------------------------------------------------
+depth=0 CN = ILOSGH751T06P, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH751T06P, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Dec 21 16:46:24 2032 GMT
+DONE
+
+lrc12esxi5biLO
+--------------------------------------------------
+depth=0 CN = ILOSGH751T06X, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH751T06X, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Dec 21 16:45:23 2032 GMT
+
+lrc12esxi2biLO
+--------------------------------------------------
+depth=0 CN = ILOSGH751T06S, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH751T06S, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Dec 21 16:43:01 2032 GMT
+
+lrc12esxi4biLO
+--------------------------------------------------
+depth=0 CN = ILOSGH751T06V, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH751T06V, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Dec 21 17:45:58 2032 GMT
+
+lrc12esxi6biLO
+--------------------------------------------------
+depth=0 CN = ILOSGH751T070, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH751T070, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Dec 21 16:45:38 2032 GMT
+
+lrc12vc1
+--------------------------------------------------
+depth=0 O = Hewlett Packard Enterprise, OU = Virtual Connect Manager, CN = VCEX27C97320098
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett Packard Enterprise, OU = Virtual Connect Manager, CN = VCEX27C97320098
+verify return:1
+DONE
+notAfter=Feb 13 07:55:32 2028 GMT
+
+lrc12vc2
+--------------------------------------------------
+depth=0 O = Hewlett Packard Enterprise, OU = Virtual Connect Manager, CN = VCEX27C97320098
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett Packard Enterprise, OU = Virtual Connect Manager, CN = VCEX27C97320098
+verify return:1
+DONE
+notAfter=Feb 13 07:55:32 2028 GMT
+
+lrc12snasw1
+--------------------------------------------------
+socket: Bad file descriptor
+connect:errno=9
+unable to load certificate
+139722707543952:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+lrc12snasw2
+--------------------------------------------------
+socket: Bad file descriptor
+connect:errno=9
+unable to load certificate
+140517977294736:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+lrc12esxi1b
+--------------------------------------------------
+depth=1 CN = CA, DC = vsphere, DC = local, C = US, ST = California, O = lrc12vcenterb.lrc12.netact.tcc.net, OU = VMware Engineering
+verify error:num=19:self signed certificate in certificate chain
+DONE
+notAfter=Dec 16 07:32:12 2025 GMT
+
+lrc12esxi2b
+--------------------------------------------------
+depth=1 CN = CA, DC = vsphere, DC = local, C = US, ST = California, O = lrc12vcenterb.lrc12.netact.tcc.net, OU = VMware Engineering
+verify error:num=19:self signed certificate in certificate chain
+DONE
+notAfter=Dec 16 07:32:00 2025 GMT
+
+lrc12esxi3b
+--------------------------------------------------
+depth=1 CN = CA, DC = vsphere, DC = local, C = US, ST = California, O = lrc12vcenterb.lrc12.netact.tcc.net, OU = VMware Engineering
+verify error:num=19:self signed certificate in certificate chain
+DONE
+notAfter=Dec 16 07:31:47 2025 GMT
+
+lrc12esxi4b
+--------------------------------------------------
+depth=1 CN = CA, DC = vsphere, DC = local, C = US, ST = California, O = lrc12vcenterb.lrc12.netact.tcc.net, OU = VMware Engineering
+verify error:num=19:self signed certificate in certificate chain
+DONE
+notAfter=Dec 16 07:31:35 2025 GMT
+
+lrc12esxi5b
+--------------------------------------------------
+depth=1 CN = CA, DC = vsphere, DC = local, C = US, ST = California, O = lrc12vcenterb.lrc12.netact.tcc.net, OU = VMware Engineering
+verify error:num=19:self signed certificate in certificate chain
+DONE
+notAfter=Dec 16 07:31:22 2025 GMT
+
+lrc12esxi6b
+--------------------------------------------------
+depth=1 CN = CA, DC = vsphere, DC = local, C = US, ST = California, O = lrc12vcenterb.lrc12.netact.tcc.net, OU = VMware Engineering
+verify error:num=19:self signed certificate in certificate chain
+DONE
+notAfter=Dec 16 07:31:09 2025 GMT
+
+lrc12drvnx52spa
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = lrc12drvnx52spa, CN = 172.18.74.171
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = lrc12drvnx52spa, CN = 172.18.74.171
+verify return:1
+DONE
+notAfter=Aug 12 08:29:28 2023 GMT
+
+lrc12drvnx52spb
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = lrc12drvnx52spb, CN = 172.18.74.172
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = lrc12drvnx52spb, CN = 172.18.74.172
+verify return:1
+DONE
+notAfter=Aug 12 08:27:08 2023 GMT
+
+lrc12drbk52spa
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = lrc21drbk52spa, CN = 172.18.74.173
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = lrc21drbk52spa, CN = 172.18.74.173
+verify return:1
+DONE
+notAfter=Aug 12 08:33:04 2023 GMT
+
+lrc12drbk52spb
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = lrc12drbk52spb, CN = 172.18.74.174
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = lrc12drbk52spb, CN = 172.18.74.174
+verify return:1
+DONE
+notAfter=Aug 12 08:33:15 2023 GMT
+
+lrc2hpsim
+--------------------------------------------------
+socket: Bad file descriptor
+connect:errno=9
+unable to load certificate
+139975629658000:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+lrc12vcenterb
+--------------------------------------------------
+depth=0 CN = lrc12vcenterb.lrc12.netact.tcc.net, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = lrc12vcenterb.lrc12.netact.tcc.net, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Dec 17 19:15:39 2022 GMT
+
+lrc12aveb
+--------------------------------------------------
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = lrc12aveb.lrc12.netact.tcc.net, emailAddress = root
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = lrc12aveb.lrc12.netact.tcc.net, emailAddress = root
+verify return:1
+DONE
+notAfter=Jun 20 03:57:20 2026 GMT
+
+lrc12avecpb
+--------------------------------------------------
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = lrc12avecpb.lrc12.netact.tcc.net
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = lrc12avecpb.lrc12.netact.tcc.net
+verify return:1
+DONE
+notAfter=Oct 28 05:14:00 2041 GMT

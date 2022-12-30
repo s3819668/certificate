@@ -1,0 +1,163 @@
+lgc_b_oa1
+--------------------------------------------------
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-9CB6547F5EB3
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-9CB6547F5EB3
+verify return:1
+DONE
+notAfter=Jul 21 15:03:17 2024 GMT
+
+lgc_b_oa2
+--------------------------------------------------
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-9CB65480B139
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-9CB65480B139
+verify return:1
+DONE
+notAfter=Jul 21 15:02:11 2024 GMT
+
+lgcesxi11iLO
+--------------------------------------------------
+depth=0 CN = ILOSGH544V1H1, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH544V1H1, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Oct 27 19:22:31 2030 GMT
+
+lgcesxi12iLO
+--------------------------------------------------
+depth=0 CN = ILOSGH544V1H3.sgp.hp.com, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH544V1H3.sgp.hp.com, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Oct 29 00:19:20 2030 GMT
+
+lgcesxi13iLO
+--------------------------------------------------
+depth=0 CN = ILOSGH647VHER, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH647VHER, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Nov 25 00:13:19 2031 GMT
+
+lgcesxi14iLO
+--------------------------------------------------
+depth=0 CN = ILOSGH647VHET, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH647VHET, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Nov 24 10:08:37 2031 GMT
+
+lgcesxi15iLO
+--------------------------------------------------
+depth=0 CN = ILOSGH647VHEL, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH647VHEL, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Nov 24 10:17:30 2031 GMT
+
+lgcfcsw1dr
+--------------------------------------------------
+socket: Bad file descriptor
+connect:errno=9
+unable to load certificate
+140155098105744:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+lgcfcsw2dr
+--------------------------------------------------
+socket: Bad file descriptor
+connect:errno=9
+unable to load certificate
+140612315207568:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+lgcesxi11
+--------------------------------------------------
+depth=1 CN = CA, DC = vsphere, DC = local, C = US, ST = California, O = lgcvcenterb.lgc.netact.tcc.net, OU = VMware
+verify error:num=19:self signed certificate in certificate chain
+DONE
+notAfter=Sep 30 10:26:05 2026 GMT
+
+lgcesxi12
+--------------------------------------------------
+depth=1 CN = CA, DC = vsphere, DC = local, C = US, ST = California, O = lgcvcenterb.lgc.netact.tcc.net, OU = VMware
+verify error:num=19:self signed certificate in certificate chain
+DONE
+notAfter=Sep 30 09:28:29 2026 GMT
+
+lgcesxi13
+--------------------------------------------------
+depth=1 CN = CA, DC = vsphere, DC = local, C = US, ST = California, O = lgcvcenterb.lgc.netact.tcc.net, OU = VMware
+verify error:num=19:self signed certificate in certificate chain
+DONE
+notAfter=Oct  4 03:04:24 2026 GMT
+
+lgcesxi14
+--------------------------------------------------
+depth=1 CN = CA, DC = vsphere, DC = local, C = US, ST = California, O = lgcvcenterb.lgc.netact.tcc.net, OU = VMware
+verify error:num=19:self signed certificate in certificate chain
+DONE
+notAfter=Oct  4 05:24:51 2026 GMT
+
+lgcesxi15
+--------------------------------------------------
+depth=1 CN = CA, DC = vsphere, DC = local, C = US, ST = California, O = lgcvcenterb.lgc.netact.tcc.net, OU = VMware
+verify error:num=19:self signed certificate in certificate chain
+DONE
+notAfter=Sep 30 11:24:04 2026 GMT
+
+lgcvnx5400spadr
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = lgcvnx5400spadr, CN = 172.18.77.171
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = lgcvnx5400spadr, CN = 172.18.77.171
+verify return:1
+DONE
+notAfter=May 17 07:54:29 2027 GMT
+
+lgcvnx5400spbdr
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = lgcvnx5400spbdr, CN = 172.18.77.172
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = lgcvnx5400spbdr, CN = 172.18.77.172
+verify return:1
+DONE
+notAfter=May 18 05:42:06 2027 GMT
+
+lgcvnx5300spadr
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = lgcvnx5300spadr, CN = 172.18.77.173
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = lgcvnx5300spadr, CN = 172.18.77.173
+verify return:1
+DONE
+notAfter=May 17 07:49:05 2027 GMT
+
+lgcvnx5300spbdr
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = lgcvnx5300spbdr, CN = 172.18.77.174
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = lgcvnx5300spbdr, CN = 172.18.77.174
+verify return:1
+DONE
+notAfter=May 18 05:40:27 2027 GMT

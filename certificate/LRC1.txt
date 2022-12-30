@@ -1,0 +1,105 @@
+lrc1vm85 ihs
+----------
+notBefore=Oct 30 11:11:16 2017 GMT
+notAfter=Oct 30 11:11:46 2027 GMT
+ 
+lrc1vm86 ihs
+----------
+notBefore=Oct 30 11:11:16 2017 GMT
+notAfter=Oct 30 11:11:46 2027 GMT
+ 
+lrc1vm85 ihs
+----------
+notBefore=Oct 30 12:08:27 2017 GMT
+notAfter=Sep 15 12:08:27 2024 GMT
+ 
+lrc1vm86 ihs
+----------
+notBefore=Oct 30 12:08:27 2017 GMT
+notAfter=Sep 15 12:08:27 2024 GMT
+ 
+lrc1vm85 ihs
+----------
+notBefore=Oct 30 12:07:54 2017 GMT
+notAfter=Oct 28 12:07:54 2027 GMT
+ 
+lrc1vm86 ihs
+----------
+notBefore=Oct 30 12:07:54 2017 GMT
+notAfter=Oct 28 12:07:54 2027 GMT
+ 
+lrc1vm3 dirsrv
+----------
+notBefore=Mar 19 10:13:55 2019 GMT
+notAfter=Mar 16 10:14:25 2029 GMT
+ 
+lrc1vm5 dirsrv
+----------
+notBefore=Mar 19 10:13:55 2019 GMT
+notAfter=Mar 16 10:14:25 2029 GMT
+ 
+lrc1vm16 httpd
+----------
+notBefore=Oct 30 11:44:21 2017 GMT
+notAfter=Oct 30 10:56:37 2032 GMT
+ 
+lrc1vm17 httpd
+----------
+notBefore=Oct 30 11:44:21 2017 GMT
+notAfter=Oct 30 10:56:37 2032 GMT
+ 
+lrc1vm9 nwi3-http
+----------
+notBefore=Oct 30 11:44:21 2017 GMT
+notAfter=Oct 30 10:56:37 2032 GMT
+ 
+lrc1vm16 isdk-corba-fm
+----------
+notBefore=Oct 30 12:01:06 2017 GMT
+notAfter=Oct 26 12:01:06 2032 GMT
+ 
+lrc1vm17 isdk-corba-fm
+----------
+notBefore=Oct 30 12:01:06 2017 GMT
+notAfter=Oct 26 12:01:06 2032 GMT
+ 
+lrc1vm13 restda
+----------
+no peer certificate available
+No client certificate CA names sent
+ 
+lrc1vm12 xoh
+----------
+no peer certificate available
+No client certificate CA names sent
+ 
+lrc1vm8 nbi3gcom
+----------
+no peer certificate available
+No client certificate CA names sent
+ 
+lrc1vm8 nbi3gc
+----------
+no peer certificate available
+No client certificate CA names sent
+ 
+lrc1vm14 ntcapp
+----------
+notBefore=Mar 19 10:14:03 2019 GMT
+notAfter=Mar 16 10:14:33 2029 GMT
+ 
+lrc1vm15 ntcapp
+----------
+notBefore=Mar 19 10:14:03 2019 GMT
+notAfter=Mar 16 10:14:33 2029 GMT
+ 
+pnp_compatibilitylrc1vm9
+----------
+notBefore=Mar 19 10:14:31 2019 GMT
+notAfter=Mar 16 10:15:01 2029 GMT
+ 
+pnp_autoconnectionlrc1vm9
+----------
+ 
+22 cls-lb
+----------

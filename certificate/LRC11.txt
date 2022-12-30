@@ -1,0 +1,105 @@
+lrc11vm85 ihs
+----------
+notBefore=Jul 27 13:21:57 2017 GMT
+notAfter=Jul 27 13:22:27 2027 GMT
+ 
+lrc11vm86 ihs
+----------
+notBefore=Jul 27 13:21:57 2017 GMT
+notAfter=Jul 27 13:22:27 2027 GMT
+ 
+lrc11vm85 ihs
+----------
+notBefore=Jul 27 14:21:27 2017 GMT
+notAfter=Jun 12 14:21:27 2024 GMT
+ 
+lrc11vm86 ihs
+----------
+notBefore=Jul 27 14:21:27 2017 GMT
+notAfter=Jun 12 14:21:27 2024 GMT
+ 
+lrc11vm85 ihs
+----------
+notBefore=Jul 27 14:20:54 2017 GMT
+notAfter=Jul 25 14:20:54 2027 GMT
+ 
+lrc11vm86 ihs
+----------
+notBefore=Jul 27 14:20:54 2017 GMT
+notAfter=Jul 25 14:20:54 2027 GMT
+ 
+lrc11vm3 dirsrv
+----------
+notBefore=Sep 18 06:29:29 2018 GMT
+notAfter=Sep 15 06:29:59 2028 GMT
+ 
+lrc11vm5 dirsrv
+----------
+notBefore=Sep 18 06:29:29 2018 GMT
+notAfter=Sep 15 06:29:59 2028 GMT
+ 
+lrc11vm16 httpd
+----------
+notBefore=Jul 27 13:56:28 2017 GMT
+notAfter=Jul 27 13:07:18 2032 GMT
+ 
+lrc11vm17 httpd
+----------
+notBefore=Jul 27 13:56:28 2017 GMT
+notAfter=Jul 27 13:07:18 2032 GMT
+ 
+lrc11vm9 nwi3-http
+----------
+notBefore=Jul 27 13:56:28 2017 GMT
+notAfter=Jul 27 13:07:18 2032 GMT
+ 
+lrc11vm16 isdk-corba-fm
+----------
+notBefore=Jul 27 14:14:10 2017 GMT
+notAfter=Jul 23 14:14:10 2032 GMT
+ 
+lrc11vm17 isdk-corba-fm
+----------
+notBefore=Jul 27 14:14:10 2017 GMT
+notAfter=Jul 23 14:14:10 2032 GMT
+ 
+lrc11vm13 restda
+----------
+no peer certificate available
+No client certificate CA names sent
+ 
+lrc11vm12 xoh
+----------
+no peer certificate available
+No client certificate CA names sent
+ 
+lrc11vm8 nbi3gcom
+----------
+no peer certificate available
+No client certificate CA names sent
+ 
+lrc11vm8 nbi3gc
+----------
+no peer certificate available
+No client certificate CA names sent
+ 
+lrc11vm14 ntcapp
+----------
+notBefore=Sep 18 06:29:49 2018 GMT
+notAfter=Sep 15 06:30:19 2028 GMT
+ 
+lrc11vm15 ntcapp
+----------
+notBefore=Sep 18 06:29:49 2018 GMT
+notAfter=Sep 15 06:30:19 2028 GMT
+ 
+pnp_compatibilitylrc11vm9
+----------
+notBefore=Sep 18 06:30:51 2018 GMT
+notAfter=Sep 15 06:31:21 2028 GMT
+ 
+pnp_autoconnectionlrc11vm9
+----------
+ 
+18 cls-lb
+----------

@@ -1,0 +1,103 @@
+nwrc4vm85 ihs
+----------
+notBefore=Jul 13 11:26:03 2018 GMT
+notAfter=Jul 13 11:26:33 2028 GMT
+
+nwrc4vm86 ihs
+----------
+notBefore=Jul 13 11:26:03 2018 GMT
+notAfter=Jul 13 11:26:33 2028 GMT
+
+nwrc4vm85 ihs
+----------
+notBefore=Jul 13 11:32:19 2018 GMT
+notAfter=May 29 11:32:19 2025 GMT
+
+nwrc4vm86 ihs
+----------
+notBefore=Jul 13 11:32:13 2018 GMT
+notAfter=May 29 11:32:13 2025 GMT
+
+nwrc4vm85 ihs
+----------
+notBefore=Jul 13 11:32:28 2018 GMT
+notAfter=Jul 10 11:32:28 2028 GMT
+
+nwrc4vm86 ihs
+----------
+notBefore=Jul 13 11:32:23 2018 GMT
+notAfter=Jul 10 11:32:23 2028 GMT
+
+nwrc4vm3 dirsrv
+----------
+notBefore=Sep  3 06:41:02 2020 GMT
+notAfter=Sep  1 06:41:32 2030 GMT
+
+nwrc4vm5 dirsrv
+----------
+notBefore=Sep  3 06:41:02 2020 GMT
+notAfter=Sep  1 06:41:32 2030 GMT
+
+nwrc4vm16 httpd
+----------
+notBefore=Jul 13 11:53:18 2018 GMT
+notAfter=Jul 13 11:11:24 2033 GMT
+
+nwrc4vm17 httpd
+----------
+notBefore=Jul 13 11:53:18 2018 GMT
+notAfter=Jul 13 11:11:24 2033 GMT
+
+nwrc4vm9 nwi3-http
+----------
+notBefore=Jul 13 11:53:18 2018 GMT
+notAfter=Jul 13 11:11:24 2033 GMT
+
+nwrc4vm16 isdk-corba-fm
+----------
+notBefore=Jul 13 12:10:03 2018 GMT
+notAfter=Jul  9 12:10:03 2033 GMT
+
+nwrc4vm17 isdk-corba-fm
+----------
+notBefore=Jul 13 12:10:03 2018 GMT
+notAfter=Jul  9 12:10:03 2033 GMT
+
+nwrc4vm13 restda
+----------
+
+nwrc4vm12 xoh
+----------
+no peer certificate available
+No client certificate CA names sent
+
+nwrc4vm8 nbi3gcom
+----------
+no peer certificate available
+No client certificate CA names sent
+
+nwrc4vm8 nbi3gc
+----------
+no peer certificate available
+No client certificate CA names sent
+
+nwrc4vm14 ntcapp
+----------
+notBefore=Sep  3 06:41:10 2020 GMT
+notAfter=Sep  1 06:41:40 2030 GMT
+
+nwrc4vm15 ntcapp
+----------
+notBefore=Sep  3 06:41:10 2020 GMT
+notAfter=Sep  1 06:41:40 2030 GMT
+
+ pnp_compatibilitynwrc4vm9
+----------
+notBefore=Sep  3 06:41:38 2020 GMT
+notAfter=Sep  1 06:42:08 2030 GMT
+
+ pnp_autoconnectionnwrc4vm9
+----------
+
+48 cls-lb
+----------

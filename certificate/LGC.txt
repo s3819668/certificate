@@ -1,0 +1,93 @@
+lgcvm85 ihs
+----------
+notBefore=May 11 09:06:59 2017 GMT
+notAfter=May 11 09:07:29 2027 GMT
+
+lgcvm86 ihs
+----------
+notBefore=May 11 09:06:59 2017 GMT
+notAfter=May 11 09:07:29 2027 GMT
+
+lgcvm85 ihs
+----------
+notBefore=May 11 10:18:45 2017 GMT
+notAfter=Mar 27 10:18:45 2024 GMT
+
+lgcvm86 ihs
+----------
+notBefore=May 11 10:18:45 2017 GMT
+notAfter=Mar 27 10:18:45 2024 GMT
+
+lgcvm85 ihs
+----------
+notBefore=May 11 10:18:25 2017 GMT
+notAfter=May  9 10:18:25 2027 GMT
+
+lgcvm86 ihs
+----------
+notBefore=May 11 10:18:25 2017 GMT
+notAfter=May  9 10:18:25 2027 GMT
+
+lgcvm3 dirsrv
+----------
+notBefore=Mar 20 07:45:18 2019 GMT
+notAfter=Mar 17 07:45:48 2029 GMT
+
+lgcvm5 dirsrv
+----------
+notBefore=Mar 20 07:45:18 2019 GMT
+notAfter=Mar 17 07:45:48 2029 GMT
+
+lgcvm9 httpd
+----------
+notBefore=May 11 09:31:43 2017 GMT
+notAfter=May 11 08:52:22 2032 GMT
+
+lgcvm9 nwi3-http
+----------
+unable to load certificate
+139982512478096:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+lgcvm88 isdk-corba-fm
+----------
+unable to load certificate
+140410434017168:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+lgcvm89 isdk-corba-fm
+----------
+unable to load certificate
+139633994233744:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+lgcvm9 restda
+----------
+no peer certificate available
+No client certificate CA names sent
+
+lgcvm9 xoh
+----------
+no peer certificate available
+No client certificate CA names sent
+
+lgcvm10 nbi3gcom
+----------
+no peer certificate available
+No client certificate CA names sent
+
+lgcvm10 nbi3gc
+----------
+
+lgcvm10 ntcapp
+----------
+unable to load certificate
+140260662749072:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+pnp_compatibilitylgcvm9
+----------
+unable to load certificate
+140677755541392:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+pnp_autoconnectionlgcvm9
+----------
+
+41 cls-lb
+----------

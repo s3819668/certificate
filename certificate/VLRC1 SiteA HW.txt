@@ -1,0 +1,263 @@
+vlrc1oa1
+--------------------------------------------------
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-9457A55FAE23
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-9457A55FAE23
+verify return:1
+DONE
+notAfter=May 18 12:25:02 2026 GMT
+
+vlrc1oa2
+--------------------------------------------------
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-9457A55F6D1F
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-9457A55F6D1F
+verify return:1
+DONE
+notAfter=May 18 12:23:58 2026 GMT
+
+vlrc1esxi1aiLO
+--------------------------------------------------
+depth=0 CN = ILOPWGEH0ELM651, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOPWGEH0ELM651, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Feb 18 21:19:26 2032 GMT
+
+vlrc1esxi3aiLO
+--------------------------------------------------
+depth=0 CN = ILOSGH620VPP1, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH620VPP1, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=May 20 08:03:38 2031 GMT
+
+vlrc1esxi5aiLO
+--------------------------------------------------
+depth=0 CN = ILOSGH620VPP7, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH620VPP7, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=May 20 08:03:18 2031 GMT
+
+vlrc1esxi2aiLO
+--------------------------------------------------
+depth=0 CN = ILOSGH620VPP3, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH620VPP3, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=May 20 08:21:38 2031 GMT
+
+vlrc1esxi4aiLO
+--------------------------------------------------
+depth=0 CN = ILOSGH620VPP5, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH620VPP5, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=May 20 08:02:50 2031 GMT
+
+vlrc1esxi6aiLO
+--------------------------------------------------
+depth=0 CN = ILOPWSVK--LMB91.CABGL6, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOPWSVK--LMB91.CABGL6, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Sep  5 00:56:11 2033 GMT
+
+vlrc1vc1
+--------------------------------------------------
+depth=0 O = Hewlett-Packard, OU = Virtual Connect Manager, CN = VCEX27C960301KP
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett-Packard, OU = Virtual Connect Manager, CN = VCEX27C960301KP
+verify return:1
+DONE
+notAfter=Jul  6 06:40:16 2026 GMT
+
+vlrc1vc2
+--------------------------------------------------
+depth=0 O = Hewlett-Packard, OU = Virtual Connect Manager, CN = VCEX27C960301KP
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett-Packard, OU = Virtual Connect Manager, CN = VCEX27C960301KP
+verify return:1
+DONE
+notAfter=Jul  6 06:40:16 2026 GMT
+
+vlrc1snasw1
+--------------------------------------------------
+socket: Bad file descriptor
+connect:errno=9
+unable to load certificate
+140659379849104:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+vlrc1snasw2
+--------------------------------------------------
+socket: Bad file descriptor
+connect:errno=9
+unable to load certificate
+140594355046288:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+vlrc1esxi1a
+--------------------------------------------------
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi1a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi1a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Jan 14 10:03:48 2026 GMT
+
+vlrc1esxi2a
+--------------------------------------------------
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi2a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi2a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Jan 14 10:03:34 2026 GMT
+
+vlrc1esxi3a
+--------------------------------------------------
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi3a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi3a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Jan 14 10:03:21 2026 GMT
+
+vlrc1esxi4a
+--------------------------------------------------
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi4a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi4a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Jan 14 10:03:09 2026 GMT
+
+vlrc1esxi5a
+--------------------------------------------------
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi5a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi5a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Jan 14 10:02:57 2026 GMT
+
+vlrc1esxi6a
+--------------------------------------------------
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi6a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = vlrc1esxi6a.vlrc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Jan 14 10:02:38 2026 GMT
+
+vlrc1spa
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = vorcspa, CN = 172.18.83.107
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = vorcspa, CN = 172.18.83.107
+verify return:1
+DONE
+notAfter=Aug 29 06:25:46 2027 GMT
+
+vlrc1spb
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = vorcspb, CN = 172.18.83.108
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = vorcspb, CN = 172.18.83.108
+verify return:1
+DONE
+notAfter=Aug 29 06:30:03 2027 GMT
+
+vlrc1bkspa
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = vorcbkspa, CN = 172.18.83.109
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = vorcbkspa, CN = 172.18.83.109
+verify return:1
+DONE
+notAfter=Aug 29 07:06:32 2027 GMT
+
+vlrc1bkspb
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = vorcbkspb, CN = 172.18.83.110
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = vorcbkspb, CN = 172.18.83.110
+verify return:1
+DONE
+notAfter=Aug 29 07:25:18 2027 GMT
+
+vlrc1hpsim
+--------------------------------------------------
+socket: Bad file descriptor
+connect:errno=9
+unable to load certificate
+140612167137168:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:707:Expecting: TRUSTED CERTIFICATE
+
+vlrc1vcentera
+--------------------------------------------------
+depth=0 CN = vlrc1vcentera.vlrc1.netact.tcc.net, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = vlrc1vcentera.vlrc1.netact.tcc.net, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Jan 15 21:46:57 2023 GMT
+
+vlrc1avea
+--------------------------------------------------
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = vlrc1avea.vlrc1.netact.tcc.net, emailAddress = root
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = vlrc1avea.vlrc1.netact.tcc.net, emailAddress = root
+verify return:1
+DONE
+notAfter=Jan 17 04:07:50 2026 GMT
+
+vlrc1avecpa
+--------------------------------------------------
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = Administrator
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = Administrator
+verify return:1
+DONE
+notAfter=Nov  3 09:55:40 2037 GMT

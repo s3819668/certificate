@@ -1,0 +1,214 @@
+arc1oa1
+Can't use SSL_get_servername
+depth=0 O = Hewlett Packard Enterprise, OU = Onboard Administrator, CN = OA-ECEBB8A15DC1
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett Packard Enterprise, OU = Onboard Administrator, CN = OA-ECEBB8A15DC1
+verify return:1
+notAfter=Sep 15 09:47:32 2030 GMT
+--------------------------------------------------
+
+arc1oa2
+Can't use SSL_get_servername
+depth=0 O = Hewlett Packard Enterprise, OU = Onboard Administrator, CN = OA-ECEBB8A16DCF
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett Packard Enterprise, OU = Onboard Administrator, CN = OA-ECEBB8A16DCF
+verify return:1
+notAfter=Sep 15 09:46:29 2030 GMT
+--------------------------------------------------
+
+arc1esxi1aiLO
+Can't use SSL_get_servername
+depth=0 CN = ILOSGH037V0GG, O = Hewlett Packard Enterprise, OU = ISS, L = Americas, ST = Houston, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH037V0GG, O = Hewlett Packard Enterprise, OU = ISS, L = Americas, ST = Houston, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Sep 16 20:32:36 2035 GMT
+--------------------------------------------------
+
+arc1esxi3aiLO
+Can't use SSL_get_servername
+depth=0 CN = ILOSGH037V0GJ, O = Hewlett Packard Enterprise, OU = ISS, L = Americas, ST = Houston, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH037V0GJ, O = Hewlett Packard Enterprise, OU = ISS, L = Americas, ST = Houston, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Sep 16 20:34:44 2035 GMT
+--------------------------------------------------
+
+arc1esxi2aiLO
+Can't use SSL_get_servername
+depth=0 CN = ILOSGH037V0GL, O = Hewlett Packard Enterprise, OU = ISS, L = Americas, ST = Houston, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH037V0GL, O = Hewlett Packard Enterprise, OU = ISS, L = Americas, ST = Houston, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Sep 16 20:33:48 2035 GMT
+--------------------------------------------------
+
+arc1esxi4aiLO
+Can't use SSL_get_servername
+depth=0 CN = ILOSGH037V0GP, O = Hewlett Packard Enterprise, OU = ISS, L = Americas, ST = Houston, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH037V0GP, O = Hewlett Packard Enterprise, OU = ISS, L = Americas, ST = Houston, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Sep 16 20:40:25 2035 GMT
+--------------------------------------------------
+
+arc1vc1
+Can't use SSL_get_servername
+depth=0 O = Hewlett Packard Enterprise, OU = Virtual Connect Manager, CN = VCEX27C90160008
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett Packard Enterprise, OU = Virtual Connect Manager, CN = VCEX27C90160008
+verify return:1
+notAfter=Nov 24 08:24:33 2030 GMT
+--------------------------------------------------
+
+arc1vc2
+Can't use SSL_get_servername
+depth=0 O = Hewlett Packard Enterprise, OU = Virtual Connect Manager, CN = VCEX27C90160008
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett Packard Enterprise, OU = Virtual Connect Manager, CN = VCEX27C90160008
+verify return:1
+notAfter=Nov 24 08:24:33 2030 GMT
+--------------------------------------------------
+
+arc1fcsw1
+140310564886336:error:0200206F:system library:connect:Connection refused:crypto/bio/b_sock2.c:110:
+140310564886336:error:2008A067:BIO routines:BIO_connect:connect error:crypto/bio/b_sock2.c:111:
+connect:errno=111
+unable to load certificate
+139708749121344:error:0909006C:PEM routines:get_name:no start line:crypto/pem/pem_lib.c:745:Expecting: TRUSTED CERTIFICATE
+--------------------------------------------------
+
+arc1fcsw2
+140224120883008:error:0200206F:system library:connect:Connection refused:crypto/bio/b_sock2.c:110:
+140224120883008:error:2008A067:BIO routines:BIO_connect:connect error:crypto/bio/b_sock2.c:111:
+connect:errno=111
+unable to load certificate
+140359157663552:error:0909006C:PEM routines:get_name:no start line:crypto/pem/pem_lib.c:745:Expecting: TRUSTED CERTIFICATE
+--------------------------------------------------
+
+arc1esxi1a
+Can't use SSL_get_servername
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = arc1esxi1a.arc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = arc1esxi1a.arc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Nov 30 07:34:25 2025 GMT
+--------------------------------------------------
+
+arc1esxi2a
+Can't use SSL_get_servername
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = arc1esxi2a.arc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = arc1esxi2a.arc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Nov 30 07:34:13 2025 GMT
+--------------------------------------------------
+
+arc1esxi3a
+Can't use SSL_get_servername
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = arc1esxi3a.arc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = arc1esxi3a.arc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Nov 30 07:34:02 2025 GMT
+--------------------------------------------------
+
+arc1esxi4a
+Can't use SSL_get_servername
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = arc1esxi4a.arc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 C = US, ST = California, L = Palo Alto, O = VMware, OU = VMware Engineering, CN = arc1esxi4a.arc1.netact.tcc.net, emailAddress = vmca@vmware.com
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Nov 30 07:33:50 2025 GMT
+--------------------------------------------------
+
+arc1emcspa
+Can't use SSL_get_servername
+depth=0 CN = CETV3203700001-ARC1
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = CETV3203700001-ARC1
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Nov 24 06:59:25 2023 GMT
+--------------------------------------------------
+
+arc1emcspb
+unable to load certificate
+139639679747904:error:0909006C:PEM routines:get_name:no start line:crypto/pem/pem_lib.c:745:Expecting: TRUSTED CERTIFICATE
+--------------------------------------------------
+
+arc1buemcspa
+Can't use SSL_get_servername
+depth=0 CN = CETV3203700004-ARC1-Backup
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = CETV3203700004-ARC1-Backup
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Nov 24 06:50:26 2023 GMT
+--------------------------------------------------
+
+arc1buemcspb
+unable to load certificate
+140256871823168:error:0909006C:PEM routines:get_name:no start line:crypto/pem/pem_lib.c:745:Expecting: TRUSTED CERTIFICATE
+--------------------------------------------------
+
+arc1hpsim
+140119276549952:error:0200206F:system library:connect:Connection refused:crypto/bio/b_sock2.c:110:
+140119276549952:error:2008A067:BIO routines:BIO_connect:connect error:crypto/bio/b_sock2.c:111:
+connect:errno=111
+unable to load certificate
+139781497247552:error:0909006C:PEM routines:get_name:no start line:crypto/pem/pem_lib.c:745:Expecting: TRUSTED CERTIFICATE
+--------------------------------------------------
+
+arc1vcentera
+Can't use SSL_get_servername
+depth=0 CN = arc1vcentera.arc1.netact.tcc.net, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = arc1vcentera.arc1.netact.tcc.net, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Dec  1 19:19:10 2022 GMT
+--------------------------------------------------
+
+arc1avea
+Can't use SSL_get_servername
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = arc1avea.arc1.netact.tcc.net, emailAddress = root
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = arc1avea.arc1.netact.tcc.net, emailAddress = root
+verify return:1
+notAfter=Mar 21 10:09:49 2026 GMT
+--------------------------------------------------
+
+arc1avecpa
+Can't use SSL_get_servername
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = localhost.localdom
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 C = US, ST = California, L = Irvine, O = Dell Technologies, OU = Dell EMC, CN = localhost.localdom
+verify return:1
+notAfter=Sep 17 04:41:26 2041 GMT
+--------------------------------------------------

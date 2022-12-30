@@ -1,0 +1,82 @@
+nwrc1vm85 ihs
+----------
+notBefore=May  8 12:48:49 2018 GMT
+notAfter=May  8 12:49:19 2028 GMT
+
+nwrc1vm86 ihs
+----------
+notBefore=May  8 12:48:49 2018 GMT
+notAfter=May  8 12:49:19 2028 GMT
+
+nwrc1vm85 ihs
+----------
+notBefore=May  8 12:53:55 2018 GMT
+notAfter=Mar 24 12:53:55 2025 GMT
+
+nwrc1vm86 ihs
+----------
+notBefore=May  8 12:53:59 2018 GMT
+notAfter=Mar 24 12:53:59 2025 GMT
+
+nwrc1vm85 ihs
+----------
+notBefore=May  8 12:54:05 2018 GMT
+notAfter=May  5 12:54:05 2028 GMT
+
+nwrc1vm86 ihs
+----------
+notBefore=May  8 12:54:08 2018 GMT
+notAfter=May  5 12:54:08 2028 GMT
+
+nwrc1vm3 dirsrv
+----------
+notBefore=May  8 10:26:51 2018 GMT
+notAfter=May  5 10:26:51 2028 GMT
+
+nwrc1vm5 dirsrv
+----------
+notBefore=May  8 10:26:51 2018 GMT
+notAfter=May  5 10:26:51 2028 GMT
+
+nwrc1vm16 httpd
+----------
+notBefore=May  8 13:13:16 2018 GMT
+notAfter=May  8 12:34:10 2033 GMT
+
+nwrc1vm17 httpd
+----------
+notBefore=May  8 13:13:16 2018 GMT
+notAfter=May  8 12:34:10 2033 GMT
+
+nwrc1vm9 nwi3-http
+----------
+notBefore=May  8 13:13:16 2018 GMT
+notAfter=May  8 12:34:10 2033 GMT
+
+nwrc1vm16 isdk-corba-fm
+----------
+notBefore=May  8 13:29:24 2018 GMT
+notAfter=May  4 13:29:24 2033 GMT
+
+nwrc1vm17 isdk-corba-fm
+----------
+notBefore=May  8 13:29:24 2018 GMT
+notAfter=May  4 13:29:24 2033 GMT
+
+nwrc1vm13 restda
+----------
+
+nwrc1vm12 xoh
+----------
+no peer certificate available
+No client certificate CA names sent
+
+nwrc1vm8 nbi3gcom
+----------
+no peer certificate available
+No client certificate CA names sent
+
+nwrc1vm8 nbi3gc
+----------
+no peer certificate available
+No client certificate CA names sent

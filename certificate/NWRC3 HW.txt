@@ -1,0 +1,217 @@
+nwrc3oa1
+--------------------------------------------------
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-E4115BEC14D9
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-E4115BEC14D9
+verify error:num=10:certificate has expired
+notAfter=May  8 07:08:50 2022 GMT
+verify return:1
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-E4115BEC14D9
+notAfter=May  8 07:08:50 2022 GMT
+verify return:1
+DONE
+notAfter=May  8 07:08:50 2022 GMT
+
+nwrc3oa2
+--------------------------------------------------
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-80C16E67CC5D
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-80C16E67CC5D
+verify error:num=10:certificate has expired
+notAfter=May  8 07:07:22 2022 GMT
+verify return:1
+depth=0 O = Hewlett-Packard, OU = Onboard Administrator, CN = OA-80C16E67CC5D
+notAfter=May  8 07:07:22 2022 GMT
+verify return:1
+DONE
+notAfter=May  8 07:07:22 2022 GMT
+
+nwrc3esxi1
+--------------------------------------------------
+depth=0 CN = ILOCZ3320E69M, OU = ISS, O = Hewlett-Packard Company, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOCZ3320E69M, OU = ISS, O = Hewlett-Packard Company, L = Houston, ST = Texas, C = US
+verify error:num=27:certificate not trusted
+verify return:1
+depth=0 CN = ILOCZ3320E69M, OU = ISS, O = Hewlett-Packard Company, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Apr 11 06:34:41 2002 GMT
+
+nwrc3esxi3
+--------------------------------------------------
+depth=0 CN = ILOSGH437NW5D, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH437NW5D, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=27:certificate not trusted
+verify return:1
+depth=0 CN = ILOSGH437NW5D, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Nov  5 23:08:40 2029 GMT
+
+nwrc3esxi5
+--------------------------------------------------
+depth=0 CN = ILOSGH437NW5N, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH437NW5N, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=27:certificate not trusted
+verify return:1
+depth=0 CN = ILOSGH437NW5N, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Nov  5 23:07:40 2029 GMT
+
+nwrc3esxi7
+--------------------------------------------------
+depth=0 CN = ILOCZ3321EF6A, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOCZ3321EF6A, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=27:certificate not trusted
+verify return:1
+depth=0 CN = ILOCZ3321EF6A, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Aug 15 00:00:00 2032 GMT
+
+nwrc3esxi9
+--------------------------------------------------
+depth=0 CN = ILOCZ3320E69V, OU = ISS, O = Hewlett-Packard Company, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOCZ3320E69V, OU = ISS, O = Hewlett-Packard Company, L = Houston, ST = Texas, C = US
+verify error:num=27:certificate not trusted
+verify return:1
+depth=0 CN = ILOCZ3320E69V, OU = ISS, O = Hewlett-Packard Company, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Apr 10 14:31:44 2002 GMT
+
+nwrc3esxi2
+--------------------------------------------------
+depth=0 CN = ILOCZ3321EF5C, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOCZ3321EF5C, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=27:certificate not trusted
+verify return:1
+depth=0 CN = ILOCZ3321EF5C, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Jan 15 05:35:54 2033 GMT
+
+nwrc3esxi4
+--------------------------------------------------
+depth=0 CN = ILOSGH437NW5B, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILOSGH437NW5B, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=27:certificate not trusted
+verify return:1
+depth=0 CN = ILOSGH437NW5B, O = Hewlett-Packard Company, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Nov  5 23:09:17 2029 GMT
+
+nwrc3esxi6
+--------------------------------------------------
+depth=0 CN = ILO3T43NP3728, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILO3T43NP3728, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=27:certificate not trusted
+verify return:1
+depth=0 CN = ILO3T43NP3728, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Jun 14 00:00:00 2032 GMT
+
+nwrc3esxi8
+--------------------------------------------------
+depth=0 CN = ILO3T56NP5135, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILO3T56NP5135, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=27:certificate not trusted
+verify return:1
+depth=0 CN = ILO3T56NP5135, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=May  6 00:00:00 2034 GMT
+
+nwrc3esxi10
+--------------------------------------------------
+depth=0 CN = ILO3T49NP8727, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = ILO3T49NP8727, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=27:certificate not trusted
+verify return:1
+depth=0 CN = ILO3T49NP8727, O = Hewlett Packard Enterprise, OU = ISS, L = Houston, ST = Texas, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+DONE
+notAfter=Jan 21 00:34:18 2033 GMT
+
+nwrc3fcsw1
+--------------------------------------------------
+socket: Connection refused
+connect:errno=111
+unable to load certificate
+139808937359176:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:703:Expecting: TRUSTED CERTIFICATE
+
+nwrc3fcsw2
+--------------------------------------------------
+socket: Connection refused
+connect:errno=111
+unable to load certificate
+140497790764872:error:0906D06C:PEM routines:PEM_read_bio:no start line:pem_lib.c:703:Expecting: TRUSTED CERTIFICATE
+
+nwrc3vnx5300spa
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = nwrc3vnx5300spa, CN = 172.18.92.107
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = nwrc3vnx5300spa, CN = 172.18.92.107
+verify return:1
+DONE
+notAfter=Nov 15 04:39:12 2027 GMT
+
+nwrc3vnx5300spb
+--------------------------------------------------
+depth=0 OU = CLARiiON, CN = nwrc3vnx5300spb, CN = 172.18.92.108
+verify error:num=18:self signed certificate
+verify return:1
+depth=0 OU = CLARiiON, CN = nwrc3vnx5300spb, CN = 172.18.92.108
+verify return:1
+DONE
+notAfter=Nov 15 04:08:27 2027 GMT
+
+nwrc3vcenter
+--------------------------------------------------
+depth=0 CN = nwrc3vcenter.nwrc3.netact.tcc.net, C = US
+verify error:num=20:unable to get local issuer certificate
+verify return:1
+depth=0 CN = nwrc3vcenter.nwrc3.netact.tcc.net, C = US
+verify error:num=27:certificate not trusted
+verify return:1
+depth=0 CN = nwrc3vcenter.nwrc3.netact.tcc.net, C = US
+verify error:num=21:unable to verify the first certificate
+verify return:1
+notAfter=Apr 19 08:36:59 2028 GMT
+
